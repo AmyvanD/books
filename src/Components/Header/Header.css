@@ -1,0 +1,27 @@
+.homepage__header{
+    height:90vh;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:4rem;
+    gap:3rem;
+}
+.homepage__header__image{
+    width:80rem;
+    height:auto;
+}
+
+.homepage__header__section{
+    display:flex;
+    gap:6rem;
+    flex-direction: column;
+}
+
+.homepage__header__title{
+    font-size:5rem;
+}
+
+.homepage__header__paragraph{
+    font-size:3rem;
+}
